@@ -65,5 +65,6 @@
   },
   "license": "MIT",
   "main": "index.js",
+  "types": "index.d.ts",
   "dependencies": {}
 }
