@@ -2,7 +2,7 @@
   "name": "@withshepherd/faker",
   "description": "Generate massive amounts of fake contextual data",
   "private": false,
-  "version": "5.5.3",
+  "version": "5.5.4",
   "repository": {
     "type": "git",
     "url": "http://github.com/withshepherd/faker.js.git"
