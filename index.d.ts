@@ -443,23 +443,23 @@ declare namespace Faker {
   }
 }
 
-declare module 'faker' {
+declare module '@withshepherd/faker' {
   export = fakerStatic;
 }
 
-declare module 'faker/locale/az' {
+declare module '@withshepherd/faker/locale/az' {
   export = fakerStatic;
 }
 
-declare module 'faker/locale/ar' {
+declare module '@withshepherd/faker/locale/ar' {
   export = fakerStatic;
 }
 
-declare module 'faker/locale/cz' {
+declare module '@withshepherd/faker/locale/cz' {
   export = fakerStatic;
 }
 
-declare module 'faker/locale/de' {
+declare module '@withshepherd/faker/locale/de' {
   export = fakerStatic;
 }
 
