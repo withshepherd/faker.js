@@ -4,7 +4,7 @@
 
 ## FAQ - What happened to the original faker.js?
 
-This project was originally created and hosted at https://github.com/marak/Faker.js/ - however around 4th Jan, 2021 - the author decided to delete the repository (for unknown reasons).
+This project was originally created and hosted at https://github.com/marak/Faker.js/ - however around 4th Jan, 2022 - the author decided to delete the repository (for unknown reasons).
 
 In the interest of the community, it has been decided that faker.js will continue to be maintained here and all help in its development will be appreciated
 
