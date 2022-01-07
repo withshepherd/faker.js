@@ -10,7 +10,6 @@
   "scripts": {
     "browser": "./node_modules/.bin/gulp browser",
     "jsdoc": "./node_modules/.bin/gulp jsdoc",
-    "readme": "./node_modules/.bin/gulp readme",
     "lint": "node_modules/.bin/jshint ./lib --config ./.jshintrc",
     "test": "node_modules/.bin/mocha test/*.*.js",
     "coverage": "nyc report --reporter=text-lcov | coveralls"
@@ -65,6 +64,5 @@
   },
   "license": "MIT",
   "main": "index.js",
-  "types": "index.d.ts",
-  "dependencies": {}
+  "types": "index.d.ts"
 }
