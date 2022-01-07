@@ -402,11 +402,3 @@ npm run browser
 ```shell
 npm run jsdoc
 ```
-
-### Building ReadMe
-
-The `ReadMe.md` file for `faker.js` is automatically generated and should not be modified directly. All updates to `ReadMe.md` should be performed in `./build/src/docs.md` and then the build script should be run.
-
-```shell
-npm run readme
-```
